@@ -29,6 +29,7 @@ debug/
 *.tmp
 *.exe
 
+
 thumbs.db
 .DS_Store
 *.log
